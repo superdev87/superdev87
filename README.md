@@ -60,11 +60,8 @@
 </p>
 
 ## Github Stats
-<p align = "center">
-  <a href="https://github.com/superdev87?tab=repositories">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=superdev87&theme=default&show_icons=true&count_private=true&&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="James's github-readme-stats"/>
-  </a>
-  <a href="https://github.com/superdev87?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=superdev87&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="James's github-readme-streak-stats"/>
-  </a>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=superdev87&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=superdev87&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=superdev87&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="James's github-readme-streak-stats"/>
+</div>
