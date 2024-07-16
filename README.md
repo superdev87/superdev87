@@ -59,10 +59,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
-## Github Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=superdev87&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=superdev87&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=superdev87&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="James's github-readme-streak-stats"/>
-</div>
